@@ -1,5 +1,8 @@
 # MIPS project reflection (CID: 01497270)
 
+Imperial Login : cw3918
+
+Group Name : Yeet2
 
 ## Group working
 
